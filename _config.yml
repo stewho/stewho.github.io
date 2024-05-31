@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/keagan-henman.jpg"
+cover: "/assets/kirk-thornton.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
@@ -99,8 +99,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username:
-    url: 
+    username: "stewjas"
+    url: www.linkedin.com/in/stewjas
     desc: Connect with me on LinkedIn
     share: true
 
