@@ -100,7 +100,7 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: stewjas
-    url: www.linkedin.com/in/stewjas
+    url: https://www.linkedin.com/in/stewjas
     desc: Connect with me on LinkedIn
     share: true
 
